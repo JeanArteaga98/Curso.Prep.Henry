@@ -1,0 +1,43 @@
+                                                                Variables
+
+        Estas son aquellas que se encuentran definidas con un valor para realizar cualquier tipo acción dentro de una función, algoritmo,
+        u operación matemática.
+
+        En JavaScript estas se usan para almacenar información para ser usada mas adelante dentro de una función u operación.
+
+        Estas se dividen en las siguientes ramas:
+
+        -Strings
+        -Numericas
+        -Booleanas
+        -Objetos
+        -Funciones
+
+        Las cuales se usan para realizar una operación o función con este lenguaje de programación.
+
+                                                                Strings
+
+        Los Strings son bloques de texto que contienen un cadena de caracteres, para JavaScript estos vienen representados con unas comillas
+        ya sea que el texto sea simple o doble.
+
+                                                        Funciones 'Argumentos', 'Return'
+
+        Son aquellas que contienen un procedimiento o funcion a cumplir dentro de JavaScript, estas siempre deben tener un inicio y un fin o
+        una entrada y una salida.
+
+        Aunque la mayoria de estas necesitan argumentos para que esta tambien se ejecute sin inconvenientes, algunas de estas funciones deben
+        tener una cierta cantidad de argumentos los cuales son definidos acorde a la acción que se desea que realice la función.
+
+        Algunas de las funciones que poseen argumentos o se especifica que estas deben retornar una respuesta deseada cuando se cumple una
+        condición o no, en estos casos dentro de la función se debe escribir la palabra return la cual nos indica en la función la respuesta a
+        dar en caso de que se cumpla o no dicha condición.
+
+                                                                Declaraciones 'IF'
+
+        La declaración IF es conocida en lenguaje de programación como una condicional, es decir esta función es usada para tomar decisones
+        acorde a la acción a tomar si dicha condición se cumple o no dentro de la función establecida.
+
+                                                        Valores Booleanos (True, False)
+
+        Los valores booleanos son aquellos que poseen unicamente dos repuestas las cuales se asemejan al codigo binario como 1 y 0, verdadero
+        y falso, activo o inactivo.
